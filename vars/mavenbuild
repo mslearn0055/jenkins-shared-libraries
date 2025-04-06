@@ -1,1 +1,3 @@
-echo 'Build App'
+def call() {
+    echo 'Build in progress'
+}
