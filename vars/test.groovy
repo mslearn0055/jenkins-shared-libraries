@@ -1,4 +1,4 @@
 
 def call() {
-  'echo test in progress'
+  echo 'test in progress'
 }
